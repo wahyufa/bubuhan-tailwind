@@ -135,10 +135,6 @@ export default function Navbar() {
             </Dialog>
           </div>
         </div>
-<<<<<<< HEAD:src/utils/navbar.js
-  
-=======
->>>>>>> 57960159ea72041e7457d6f76bb3646155cbc420:src/components/navbar.js
       </div>
     </html>
   );
